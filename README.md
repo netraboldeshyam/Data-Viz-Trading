@@ -1,5 +1,5 @@
 
-A Visual Interaction of Trading Data.
+A Visual Interaction of Trading Data using Javascript D3 library.
 
 The below shows visual interaction for trading data between 11 sites. The size of the circle that represents each site is directly proportional to the trading amount made by that site. The smaller the trading amount the smaller the circle. 
 
